@@ -1,0 +1,11 @@
+#information {
+  height: 100%;
+  width: 50%;
+  z-index: 1;
+  position: absolute;
+  right: 0;
+  color: white;
+  background: black;
+  text-align: center;
+  size: 25em;
+}
